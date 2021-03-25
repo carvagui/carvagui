@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carvagui
+- 👀 I’m interested in ... Playing video games and chess sometimes.
+- 🌱 I’m currently learning ... Computer Science in UNIP - Alphaville
