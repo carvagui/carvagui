@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Ribeiro
 
 - 🔭 Hoje trabalho com back-end, utilizando a linguagem Python e ColdFusion
-- 🌱 Estou estudando Java e Node.js
+- 🌱 Estou estudando JavaScript e Node.js
 - 📫 Contate-me no email: guicarvalho51@gmail.com
 
 <div align="center">
